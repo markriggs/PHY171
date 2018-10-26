@@ -1,0 +1,62 @@
+AUTOQCM[TOTAL=1]
+
+AUTOQCM[NUM=1=Conversion ]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=2=Vectors ]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=3=Average Acceleration]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=4=Displacement]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=5=vector addition]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=6=acceleration]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=7=projectile]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=8=projectile2]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=9=Newton]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=10= ]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=11=newton2]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=12=freebodydia]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=13=friction]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=14=friction2]
+
+AUTOQCM[FQ]
+
+AUTOQCM[NUM=15=normalincline]
+
+AUTOQCM[FQ]
+
